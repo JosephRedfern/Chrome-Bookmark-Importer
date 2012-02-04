@@ -19,7 +19,7 @@ $filename = ""; //Name of the file which is to be imported, relative to the loca
 
 include_once('simple_html_dom.php'); //include the "PHP Simple HTML DOM Parser".
 $conn = mysql_connect($server, $username, $password);//connect to mysql server
-mysql_select_db("bookmark", $conn); //select database
+mysql_select_db($database, $conn); //select database
 
 
 $html = file_get_html($filename); //load bookmark file
