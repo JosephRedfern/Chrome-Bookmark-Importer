@@ -1,4 +1,5 @@
-==Chrome Bookmark Importer==
+Chrome Bookmark Importer
+====================
 My work (chromebookmarkimporter.php) is licensed under the GNU General Public License.
 
 The PHP Library I have used (PHP Simple HTML DOM Parses) is licensed under the MIT license.
