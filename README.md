@@ -1,5 +1,9 @@
+OLD-ASS PROJECT. HERE BE DRAGONS. AVOID AT ALL COSTS. NOT THE WAY THINGS SHOULD BE DONE, ETC!
+=============================================================================================
+
+
 Chrome Bookmark Importer
-====================
+------------------------
 My work (chromebookmarkimporter.php) is licensed under the GNU General Public License.
 
 The PHP Library I have used (PHP Simple HTML DOM Parses) is licensed under the MIT license.
